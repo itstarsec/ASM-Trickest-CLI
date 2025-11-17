@@ -1,15 +1,5 @@
 # 🟣 Trickest ASM CLI --- Unofficial Command-Line Interface
 
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Language-Python_3.10+-blue.svg">`{=html}
-`<img src="https://img.shields.io/badge/Status-Active-brightgreen.svg">`{=html}
-`<img src="https://img.shields.io/badge/Security-ASM%20Toolkit-purple.svg">`{=html}
-`<img src="https://img.shields.io/badge/License-MIT-lightgrey.svg">`{=html}
-```{=html}
-</p>
-```
 Trickest ASM CLI là một công cụ dòng lệnh mạnh mẽ (không chính thức)
 giúp bạn **khai thác tối đa dữ liệu ASM** từ Trickest thông qua API
 Public.
