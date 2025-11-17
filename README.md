@@ -6,7 +6,7 @@ Public.
 
 Công cụ mô phỏng phong cách điều khiển của **arsenal-cli (Orange
 Cyberdefense)** với giao diện hiện đại (Rich), hỗ trợ truy vấn TQL, phân
-trang, chuyển dataset, xem field, export, raw JSON...\
+trang, chuyển dataset, xem field, export, raw JSON...
 Một tool sinh ra cho dân **AppSec / Pentest / Red Team / ASM
 operators**.
 
@@ -190,24 +190,24 @@ python trickest_asm_cli.py
 
 # 📝 Roadmap (đề xuất mở rộng)
 
--   [ ] Export CSV / JSON\
--   [ ] Bookmark query\
--   [ ] Auto-complete field name\
--   [ ] Search nhiều dataset đồng thời\
--   [ ] Plugin system\
--   [ ] Lọc TLS nâng cao\
+-   [ ] Export CSV / JSON
+-   [ ] Bookmark query
+-   [ ] Auto-complete field name
+-   [ ] Search nhiều dataset đồng thời
+-   [ ] Plugin system
+-   [ ] Lọc TLS nâng cao
 -   [ ] Dashboard CLI mini
 
 ------------------------------------------------------------------------
 
 # 🤝 Đóng góp
 
-Pull Request luôn được chào đón.\
+Pull Request luôn được chào đón.
 Có thể đóng góp:
 
--   Thêm tính năng\
--   Cải thiện tài liệu\
--   Fix bug\
+-   Thêm tính năng
+-   Cải thiện tài liệu
+-   Fix bug
 -   Tối ưu hiệu năng
 
 ------------------------------------------------------------------------
@@ -220,6 +220,6 @@ MIT License --- Free to use & modify.
 
 # ❤️ Credits
 
--   Trickest Public API\
--   Gợi cảm hứng từ Arsenal CLI (Orange Cyberdefense)\
+-   Trickest Public API
+-   Gợi cảm hứng từ Arsenal CLI (Orange Cyberdefense)
 -   Rich Console Framework
